@@ -1,0 +1,11 @@
+body {
+  background: black !important;
+}
+
+.container {
+  background: #c8c8c8;
+}
+
+canvas {
+  border: 2px gray solid;
+}
